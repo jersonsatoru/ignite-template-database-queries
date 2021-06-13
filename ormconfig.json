@@ -1,6 +1,6 @@
 {
-  "username": "postgres",
-  "password": "docker",
+  "username": "satoru",
+  "password": "234234",
 
   "type": "postgres",
   "name": "default",
